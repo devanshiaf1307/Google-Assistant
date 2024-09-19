@@ -50,9 +50,4 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 4. Push your changes to your fork.
 5. Create a pull request to merge your changes into the main repository.
 
-## Contact
-Feel free to reach out to me if you have any questions, suggestions, or feedback about the project:
-- Email: puneetbhakte0099@gmail.com
-- LinkedIn: www.linkedin.com/in/puneet-bhakte-68a947243
 
-Happy coding! 🚀
